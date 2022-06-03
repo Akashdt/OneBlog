@@ -6,8 +6,11 @@
 SOME FEATURES:
 
  Multiple Dynamic Pages.
+ 
  BLOG EDITOR FOR WRITTING.
- Can add Heading ,poaragraphs and also upload images from your PC
+ 
+ Can add Heading ,paragraphs and also upload images from your PC.
+ 
  Read more section to read other blogs.
  
 
