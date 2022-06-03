@@ -1,19 +1,20 @@
-![Image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/naxpa0453a6bhd69ci1c.png)
 
-# Blogging Website using pure HTML, CSS and JS. 
+ ONEBLOG:
+ Blog Website using HTML, CSS and JAVASCRIPT AND Firebase as the database.
+ Express JS AND Node JS is used as backend.
 
-This project is a mini version of a working blogging website. This project is done by using only HTML, CSS and JS. This is a node.js app. And using firebase as its databse. Features of this Site :-
+SOME FEATURES:
 
-1. Dynamic Blog pages.
-2. Have a dedicated editor for blogs.
-3. You can add/make as many blogs you want.
-4. You can add Headings, paragraphs, and Images to the blog post. 
-5. Have read more blogs section also.
+ Multiple Dynamic Pages.
+ BLOG EDITOR FOR WRITTING.
+ Can add Heading ,poaragraphs and also upload images from your PC
+ Read more section to read other blogs.
+ 
 
-You can checkout it coding tutorial [here](https://youtu.be/AWHGQfzfHxI).
+#HOW TO INSTALL?
+run npm init
+Then install express nodemon and express file-upload then run npm start.
+Add your Firebase credentials in Firebase.js to run the website.
 
-### Installation Guide.
 
-Once you forked this repo. Make sure to run `npm install` command inside the folder to install all the package.
-
-After installing packages. You must go to your firbase console and make a project. Copy project credentials and paste it to "firebase.js" file. Otherwise you'll not be able to access database.
+![Screenshot (1)](https://user-images.githubusercontent.com/64660695/171871961-f39b2bae-b593-4c65-8ad5-7fc10468ee7e.png)
