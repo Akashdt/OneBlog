@@ -21,3 +21,5 @@ Add your Firebase credentials in Firebase.js to run the website.
 
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/64660695/171871961-f39b2bae-b593-4c65-8ad5-7fc10468ee7e.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/64660695/172020768-8302eda4-3feb-4fda-8c98-2f64dea271ff.png)
